@@ -1,0 +1,6 @@
+﻿zhipuai>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+websockets>=12.0
+python-dotenv>=1.0.0
+fastmcp>=0.1.0  # 如果使用自定义MCP框架需要添加
